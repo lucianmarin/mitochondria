@@ -28,4 +28,3 @@ The book is structured into 13 chapters, covering the following topics:
 - We are going to write a book about mitochondria. Plan all the chapters based on all the science you know in plan.md. (Grok)
 - Write each chapter in its own Markdown file following plan.md. (Grok)
 - Review chapter 1 to 13. Correct each chapter with all the science facts you know for sure and go in depth as much as you can. (Gemini)
-- Update README.md with the new chapter names. (Gemini)
