@@ -4,7 +4,7 @@ To truly understand mitochondria, we must appreciate their elegant and highly pu
 
 ## Overall Morphology: A Dynamic Network
 
-While often depicted as static, bean-shaped ovals in textbooks, mitochondria in a living cell are anything but. They form a fluid and dynamic network that constantly changes through fission (splitting) and fusion (merging). Their morphology is a key indicator of cellular health: healthy, respiring cells typically feature long, interconnected mitochondrial networks, while stressed or dying cells often contain fragmented, dysfunctional mitochondria.
+While often depicted as static, bean-shaped ovals in textbooks, mitochondria in a living cell are anything but. They are typically rod-shaped structures ranging from 0.5 to 10 micrometers in length, but they form a fluid and dynamic network that constantly changes through fission (splitting) and fusion (merging). Their morphology is a key indicator of cellular health: healthy, respiring cells typically feature long, interconnected mitochondrial networks, while stressed or dying cells often contain fragmented, dysfunctional mitochondria.
 
 The number of mitochondria varies enormously depending on the cell's energy budget:
 - A metabolically quiescent lymphocyte might have only a few dozen.
