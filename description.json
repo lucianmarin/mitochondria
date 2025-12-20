@@ -1,0 +1,33 @@
+{
+"metadata":{
+    "dc:title":"Mitochondria",
+    "dc:creator":"Lucian Marin",
+    "dc:language":"en-US",
+    "dc:identifier":"mitochondria",
+    "dc:source":"",
+    "meta":"",
+    "dc:date":"2025-12-20",
+    "dc:publisher":"",
+    "dc:contributor":"",
+    "dc:rights":"",
+    "dc:description":"",
+    "dc:subject":""
+    },
+"cover_image":"cover.jpg",
+"default_css":[],
+"chapters":[
+            {"markdown":"chapter1.md","css":""},
+            {"markdown":"chapter2.md","css":""},
+            {"markdown":"chapter3.md","css":""},
+            {"markdown":"chapter4.md","css":""},
+            {"markdown":"chapter5.md","css":""},
+            {"markdown":"chapter6.md","css":""},
+            {"markdown":"chapter7.md","css":""},
+            {"markdown":"chapter8.md","css":""},
+            {"markdown":"chapter9.md","css":""},
+            {"markdown":"chapter10.md","css":""},
+            {"markdown":"chapter11.md","css":""},
+            {"markdown":"chapter12.md","css":""},
+            {"markdown":"chapter13.md","css":""}
+        ]
+}
