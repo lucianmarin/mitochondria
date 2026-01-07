@@ -43,7 +43,9 @@ This dynamic cycle allows the cell to "test" the functional state of its mitocho
 3.  Parkin coats the mitochondrial surface with ubiquitin chains, creating a signal that says "this organelle is trash."
 4.  This ubiquitin coat is recognized by autophagy receptors, which engulf the damaged mitochondrion in an autophagosome and deliver it to the lysosome for destruction and recycling. This process is called **mitophagy**.
 
-Defects in this PINK1/Parkin pathway are a major cause of early-onset Parkinson's disease, as neurons fail to clear damaged mitochondria, leading to their toxic accumulation.
+Defects in this PINK1/Parkin pathway are a major cause of early-onset Parkinson's disease. However, research in 2024-2025 has broadened this view, identifying **ubiquitin-independent pathways**. Receptor-mediated mitophagy (via proteins like BNIP3, NIX, and FUNDC1) allows for fine-tuned responses to specific stressors like hypoxia. Furthermore, a new pathway called **MitoSR (Mitophagic Stress Response)** has been described, which operates by degrading autophagy inhibitors to boost clearance of damaged organelles.
+
+Therapeutically, this area is exploding. Inhibitors of **USP30** (a "de-ubiquitinase" that opposes Parkin) are currently in clinical trials, offering a way to artificially boost mitophagy and clear toxic mitochondria in neurodegenerative patients.
 
 ## Mitochondrial Transport: The Right Place at the Right Time
 
@@ -51,4 +53,6 @@ In large, polarized cells like neurons, mitochondria must be transported over lo
 *   **Kinesin** motors move mitochondria "anterograde," away from the cell body toward the synapse.
 *   **Dynein** motors move them "retrograde," back toward the cell body.
 
-The direction of movement is determined by a "tug-of-war" between these opposing motors. The process is elegantly regulated by the mitochondrial outer membrane protein **Miro**, which acts as a calcium-sensitive brake. When a synapse becomes active, local calcium levels rise. Miro binds this calcium, which triggers a conformational change that stops the motors and parks the mitochondrion exactly where its ATP is needed most. Disruptions in this transport system are linked to neurodegenerative diseases like ALS and Huntington's disease.
+The direction of movement is determined by a "tug-of-war" between these opposing motors. The process is elegantly regulated by the mitochondrial outer membrane protein **Miro**, which acts as a calcium-sensitive brake. When a synapse becomes active, local calcium levels rise. Miro binds this calcium, which triggers a conformational change that stops the motors and parks the mitochondrion exactly where its ATP is needed most.
+
+New regulatory layers continue to be found. In 2024, researchers identified the **Alex3/Gαq complex** as a critical regulator of this transport machinery in neurons. Disruptions in this specific complex are now linked to the mitochondrial stalling seen in neurodegenerative diseases like Parkinson's and ALS.

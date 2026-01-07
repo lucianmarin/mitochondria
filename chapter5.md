@@ -34,7 +34,8 @@ As electrons flow "downhill" through Complexes I, III, and IV, the energy they r
 
 ## Stage 4: ATP Synthase - The Molecular Turbine
 
-The final stage is a marvel of bioenergetic engineering. The **ATP Synthase** is a molecular machine that harnesses the proton-motive force to generate ATP. It functions like a microscopic hydroelectric turbine:
+The final stage is a marvel of bioenergetic engineering. The **ATP Synthase** is a molecular machine that harnesses the proton-motive force to generate ATP. It functions like a microscopic hydroelectric turbine. Recent cryo-EM tomography in 2024 has captured this machine in unprecedented detail, revealing that its rotation is not a simple smooth spin but a complex dance involving **6 distinct rotary positions** and over **21 fine-grained substates**.
+
 1.  Protons, driven by the gradient, flow back into the matrix through a channel in the base of the ATP synthase (the F0 part).
 2.  This flow of protons causes a central stalk (the gamma subunit) to spin at an incredible rate—up to 150 revolutions per second.
 3.  The spinning stalk pushes against the three catalytic subunits in the "head" of the synthase (the F1 part), causing them to change shape.
@@ -42,9 +43,11 @@ The final stage is a marvel of bioenergetic engineering. The **ATP Synthase** is
 
 ## The Final Tally: Why the ATP Yield Is Not an Integer
 
-The overall process is remarkably efficient. The oxidation of one NADH molecule results in the pumping of enough protons to generate ~2.5 ATP. The oxidation of FADH2, which enters the chain at Complex II and bypasses the first proton-pumping site, yields ~1.5 ATP. These non-integer values (the **P/O ratio**) reflect that the process is not perfectly coupled; some protons leak back across the membrane, and energy is also used to transport ADP and phosphate into the matrix.
+The overall process is remarkably efficient. The oxidation of one NADH molecule results in the pumping of enough protons to generate ~2.5 ATP. The oxidation of FADH2, which enters the chain at Complex II and bypasses the first proton-pumping site, yields ~1.5 ATP. These non-integer values (the **P/O ratio**) are not just due to proton leaks.
 
-Summing it all up, the complete oxidation of one molecule of glucose yields approximately **28-30 ATP**. This is a massive improvement over the 2 ATP from glycolysis alone and explains the enormous energetic advantage of aerobic life.
+Recent structural biology has clarified that the "gear ratio" of the engine varies by species. The **c-ring** of the ATP synthase rotor can have anywhere from **8 to 15 subunits**, meaning the number of protons required to make one complete turn (and thus 3 ATPs) varies. In humans, the c-ring has 8 subunits, creating a highly efficient gear ratio. When combined with the energy cost of transport (importing ADP and phosphate), the realized yield settles at the ~2.5/1.5 consensus.
+
+Summing it all up, the complete oxidation of one molecule of glucose yields approximately **30-32 ATP**. This is a massive improvement over the 2 ATP from glycolysis alone and explains the enormous energetic advantage of aerobic life.
 
 ## Regulation and Energy Buffering
 

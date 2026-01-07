@@ -8,7 +8,7 @@ We are all the children of a singular event: an ancient pact between two cells t
 
 ## The Modern Hub
 
-For decades, we viewed the mitochondrion through the narrow lens of ATP production. We now know that this is only part of the story. The modern view, illuminated by the technologies of the 21st century, reveals the mitochondrion as a bustling, integrated hub at the very center of cellular life. It is where the signals of cellular activity are translated into metabolic action; where the decision between life and death is made; where the building blocks for vital molecules are forged; and where the first alarms of viral infection are sounded. Calcium, ROS, ATP, and apoptosis are not separate functions but an intricately linked nexus of signaling. The mitochondrion is the cell's metabolic sensor, quality control inspector, and executioner, all rolled into one. Its health is the cell's health.
+For decades, we viewed the mitochondrion through the narrow lens of ATP production. We now know that this is only part of the story. The modern view, illuminated by the technologies of the 21st century, reveals the mitochondrion as a bustling, integrated hub at the very center of cellular life. It is the commander of the immune system, shifting its metabolism to arm T-cells against cancer. It is the arbiter of "inflammaging," leaking signals that drive the aging process. It is a biological machine that we can now engineer, transplant, and edit. The mitochondrion is the cell's metabolic sensor, quality control inspector, and executioner, all rolled into one. Its health is the cell's health.
 
 ## The Future Frontier
 

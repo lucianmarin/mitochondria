@@ -16,7 +16,9 @@ While the CRISPR-Cas9 revolution has made editing the nuclear genome routine, ed
 2.  **No Homology-Directed Repair:** Mitochondria lack the homology-directed repair (HDR) pathways that are used for precise CRISPR editing in the nucleus.
 3.  **The Heteroplasmy Problem:** A therapeutic edit must be performed in a large enough fraction of the thousands of mtDNA copies within a cell to overcome the disease threshold.
 
-Recent breakthroughs, however, are beginning to conquer this "Mount Everest." Scientists have developed **base editors** that do not require cutting the DNA. One of the most promising is the **DdCBE**, which fuses two halves of a bacterial toxin that acts on double-stranded DNA to a deaminase enzyme. This complex can be targeted to the mitochondrion, where it can directly convert a C-G base pair to a T-A base pair in the mtDNA, offering a potential way to correct a significant fraction of pathogenic point mutations.
+Recent breakthroughs, however, are beginning to conquer this "Mount Everest." Scientists have developed **base editors** that do not require cutting the DNA.
+*   **DdCBE:** This editor can convert a C-G base pair to a T-A base pair.
+*   **TALED (TALE-linked Deaminases):** A major leap occurred in 2024 with the refinement of TALEDs, which can perform **A-to-G editing**. This technology was used to create the first-ever animal model (a mouse) with targeted mitochondrial DNA edits, proving that we can now correct—or model—pathogenic mutations in a living organism with high precision and reduced off-target effects (e.g., using the **V28R-TALED** variant).
 
 ## From Theory to Therapy: A New Generation of Treatments
 
@@ -30,6 +32,9 @@ In 2015, the UK became the first country to license these procedures, and the fi
 A new wave of drugs targets fundamental mitochondrial processes:
 *   **Boosting NAD+:** As we age, NAD+ levels decline, impairing mitochondrial function. Supplementing with NAD+ precursors like **nicotinamide riboside (NR)** can restore NAD+ levels, activate sirtuins, and promote mitochondrial biogenesis, improving healthspan in animal models.
 *   **Targeting Quality Control:** Compounds that enhance mitophagy, the process of clearing out damaged mitochondria, are gaining traction. **Urolithin A**, a metabolite produced by gut bacteria from dietary pomegranates, has been shown to be a potent mitophagy inducer that can improve muscle function.
+
+### Mitochondrial Transplantation
+Once considered science fiction, the transplantation of whole, healthy mitochondria into damaged tissue is now a clinical reality. 2024 saw active clinical trials for conditions like stroke and Pearson Syndrome. The mechanism is fascinating: mitochondria can move between cells via **Tunneling Nanotubes (TNTs)**—thin membrane bridges—or be packaged into extracellular vesicles. Therapies now exploit this natural ability, delivering "fresh" mitochondria to rescue cells from energetic collapse. Mass-production techniques developed in 2025 now allow these organelles to be harvested from stem cells at scale, paving the way for "mitochondrial transfusions."
 
 ## A New Frontier: Mitochondria and Immunity
 One of the most exciting new areas of research is the role of mitochondria as central hubs for the innate immune system. They are involved in two key processes:

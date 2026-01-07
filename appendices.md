@@ -2,18 +2,27 @@
 
 ## Appendix A: Glossary of Terms
 
+- **Asgard Archaea**: Closest known prokaryotic relatives of eukaryotes, sharing key signature proteins.
 - **ATP Synthase**: Enzyme complex that produces ATP using proton gradient
+- **Base Editors (DdCBE/TALED)**: Tools for precise genetic editing of mtDNA without cutting the double helix.
+- **cGAS-STING**: Immune pathway that detects cytosolic mtDNA, driving inflammation and aging.
 - **Cristae**: Folded inner mitochondrial membrane increasing surface area
+- **Elamipretide**: Cardilipin-stabilizing drug, the first FDA-approved treatment for Barth Syndrome.
 - **Electron Transport Chain**: Series of protein complexes transferring electrons to generate proton gradient
 - **Endosymbiotic Theory**: Hypothesis that mitochondria originated from engulfed prokaryotes
 - **Heteroplasmy**: Presence of more than one type of mtDNA within a cell
 - **Matrix**: Inner mitochondrial compartment containing metabolic enzymes
+- **MICOS**: Mitochondrial Contact Site and Cristae Organizing System; maintains cristae architecture.
+- **Mitochondrial Transplantation**: Therapeutic transfer of healthy mitochondria into damaged cells.
 - **Mitophagy**: Selective autophagy of damaged mitochondria
 - **mtDNA**: Mitochondrial DNA, circular genome encoding mitochondrial proteins
+- **Oncometabolite**: A metabolite (e.g., 2-hydroxyglutarate) that accumulates to toxic levels and drives cancer progression.
 - **Oxidative Phosphorylation**: Process coupling electron transport to ATP synthesis
 - **PGC-1α**: Master regulator of mitochondrial biogenesis
 - **Reactive Oxygen Species (ROS)**: Chemically reactive molecules containing oxygen
+- **Respirasome**: A supercomplex of multiple ETC enzymes (I, III, IV) acting as a single unit.
 - **TCA Cycle**: Tricarboxylic acid cycle, also known as Krebs cycle, for acetyl-CoA oxidation
+- **Urolithin A**: A gut metabolite that induces mitophagy and improves muscle/immune function.
 
 ## Appendix B: Key Metabolic Pathways Diagrams
 

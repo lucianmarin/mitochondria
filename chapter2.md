@@ -33,3 +33,14 @@ In 1961, the British biochemist Peter Mitchell, in a radical and revolutionary p
 In 1963, Margit and Sylvan Nass discovered DNA fibers within mitochondria, confirming Altmann's century-old suspicion of their semi-autonomous nature. The entire human mitochondrial genome (mtDNA) was sequenced in 1981 by Fred Sanger's group, revealing a small, circular molecule with 37 genes. The discovery that mutations in mtDNA could cause human diseases, starting with the identification of the genetic basis for Leber's hereditary optic neuropathy (LHON) in 1988, launched the field of mitochondrial medicine.
 
 Today, research continues at a blistering pace. Advanced live-cell imaging has revealed the intricate choreography of mitochondrial fission, fusion, and motility. The process of **mitophagy**, a selective form of autophagy that removes damaged mitochondria, is now understood to be a critical quality control pathway. Scientists are also uncovering the central role of mitochondria as signaling platforms, particularly in the immune system, where the mitochondrial protein MAVS is essential for antiviral responses. The development of mitochondrial-targeted therapies and even mitochondrial donation ("three-parent babies") to prevent the transmission of mitochondrial disease represents the cutting edge of translational research, turning a century of basic discovery into life-changing medicine.
+
+## The Era of Intervention and Engineering (2020s-Present)
+
+As we moved into the mid-2020s, the field shifted from purely observing mitochondria to actively engineering them. Key breakthroughs in 2024 and 2025 have redefined what is possible:
+
+*   **Mitochondrial Replacement Therapy Success:** By 2025, mitochondrial donation techniques had moved from experimental theory to clinical reality, with successful procedures reported in over 20 women, resulting in live births free from debilitating metabolic diseases.
+*   **Mass Production and "Supercharging":** A 2025 breakthrough allowed for the mass production of high-quality human mitochondria from stem cells with an 850-fold increase in yield. Simultaneously, researchers developed "nanoflowers" to supercharge stem cells with extra mitochondria, opening new doors for regenerative medicine in treating heart disease and osteoarthritis.
+*   **New Physics of Fission:** In 2025, a UCLA-led team decoded the precise biophysics of mitochondrial fission, revealing a two-stage process. This fundamental insight provides new targets for diseases linked to fragmented mitochondria, such as cancer and neurodegeneration.
+*   **Genetic Tools:** Novel genetic techniques now allow cells to "shed" their mitochondria on command, providing researchers with unprecedented control to study the organelle's role in isolation.
+
+These advances mark the beginning of a new chapter where mitochondria are not just studied, but harnessed as therapeutic tools.

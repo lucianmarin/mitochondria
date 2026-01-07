@@ -25,9 +25,9 @@ This maternal inheritance has profound consequences for disease. A single cell c
 
 Whether this results in disease is determined by two key principles:
 1.  **The Threshold Effect:** For a cell's function to be impaired, the proportion of mutant mtDNA must exceed a certain critical level, typically 60-80%. Below this threshold, the wild-type copies can compensate, and the cell remains healthy.
-2.  **The Genetic Bottleneck:** During the development of oocytes, the number of mitochondria is dramatically reduced before being amplified again to the massive number found in a mature egg. This creates a "bottleneck."
+2.  **The Genetic Bottleneck:** During the development of oocytes, the number of mitochondria is dramatically reduced before being amplified again. Historically viewed as a purely random "lottery" (genetic drift), research in 2024 has challenged this simplicity. Evidence now suggests that **active selection** occurs during this bottleneck. Specialized autophagy pathways (involving genes like *BCL2L13*) may actively cull mitochondria with deleterious mutations, acting as a "quality control filter" for the germline. However, this filter is imperfect, and some "selfish" mutant genomes may even undergo positive selection, explaining how pathogenic mutations persist in the population.
 
-Imagine the cell's mtDNA population as a bag of 1,000 marbles, 100 of which are red (mutant). If you randomly draw a small handful of 10 marbles to create a new population (the oocyte), you might, by chance, draw 8 red ones or none at all. This random sampling can lead to dramatic shifts in mutant load from one generation to the next, which is why mitochondrial diseases can vary so dramatically in severity even among siblings.
+Imagine the cell's mtDNA population as a bag of 1,000 marbles...
 
 ## Mutations, Disease, and Retrograde Signaling
 
@@ -35,8 +35,9 @@ The mutation rate of mtDNA is 10-20 times higher than that of nuclear DNA. This 
 
 Because mitochondria are so central to cellular function, their dysfunction cannot go unnoticed. When mitochondrial damage occurs, a number of **retrograde signaling** pathways are activated to communicate this stress to the nucleus. For example, impaired respiration can lead to the activation of transcription factors like **ATF4** and **NF-κB**, which in turn switch on nuclear genes involved in stress responses, metabolic adaptation, and inflammation. This represents a crucial feedback loop, allowing the cell to adapt to mitochondrial dysfunction.
 
-## Clinical Frontiers: Mitochondrial Donation
+## Clinical Frontiers: Donation and Transplantation
 
-The genetics of mtDNA pose unique challenges for therapy. Because every cell contains many copies of the genome, conventional gene therapy is extremely difficult. One of the most revolutionary approaches to preventing the transmission of mitochondrial disease is **mitochondrial donation**, often referred to as "three-parent IVF."
+The genetics of mtDNA pose unique challenges for therapy. Because every cell contains many copies of the genome, conventional gene therapy is extremely difficult.
 
-In this technique, the nuclear DNA is carefully removed from a patient's egg that carries mutant mtDNA and is transferred into a healthy, enucleated donor egg that has healthy mitochondria. The resulting reconstructed egg, which has the nuclear DNA from the intended parents but the mitochondrial DNA from a donor, can then be fertilized. This groundbreaking procedure allows women with mtDNA diseases to have a genetically related child free from the devastating effects of their condition, representing a paradigm shift in the treatment of these intractable disorders.
+*   **Mitochondrial Donation:** One of the most revolutionary approaches is "three-parent IVF." In this technique, the nuclear DNA is removed from a patient's egg and transferred into a healthy, enucleated donor egg. This allows women with mtDNA diseases to have a genetically related child free from the condition.
+*   **Mitochondrial Transplantation:** Unlike donation which affects the germline, this technique targets existing somatic cells. In 2024 and 2025, clinical trials demonstrated that healthy mitochondria can be transplanted into damaged tissues—such as the brain after a stroke or the bone marrow in Pearson Syndrome—where they are taken up by cells to restore energy production. This offers a new frontier for treating acute mitochondrial crises.

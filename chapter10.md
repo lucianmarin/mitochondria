@@ -26,10 +26,23 @@ In endocrine tissues like the adrenal gland, testes, and ovaries, mitochondria a
 ## Brown Adipose Tissue (BAT): The Cellular Furnace
 Mitochondria in brown fat are uniquely specialized for one purpose: to generate heat. They are packed with **Uncoupling Protein 1 (UCP1)**, which acts as a proton channel. When activated by cold stress, UCP1 short-circuits the proton gradient, causing the energy of substrate oxidation to be dissipated directly as heat instead of being used to make ATP. This process of non-shivering thermogenesis is vital for survival in infants and is now recognized as a key player in adult metabolic health.
 
-## Cancer: A Twisted Metabolism
-For decades, the prevailing view of cancer metabolism was the **Warburg effect**—the observation that cancer cells favor glycolysis even in the presence of oxygen. This was often interpreted to mean that their mitochondria were defective.
+## The Immune System: Metabolic Shapeshifters
 
-The modern view is far more nuanced. While cancer cells are highly glycolytic, most also have active, and indeed essential, mitochondria. They rely on mitochondrial oxidative phosphorylation for ATP, but perhaps more importantly, they use the Krebs cycle as a hub for biosynthesis, siphoning off intermediates to build the lipids, proteins, and nucleotides needed for rapid cell division. Far from being defective, cancer mitochondria are often rewired and co-opted to support malignant growth, making them a prime target for modern cancer therapies.
+Immunometabolism is a rapidly exploding field revealing that immune cells are defined by their mitochondria. Resting T-cells rely on efficient fatty acid oxidation. However, upon activation by a pathogen, they must proliferate explosively. To fuel this, they undergo a "metabolic switch" to aerobic glycolysis (similar to the Warburg effect), driven by mitochondrial remodeling. Conversely, long-lived "memory" T-cells switch back to massive mitochondrial capacity to sustain their vigilance for decades. Therapies that modulate mitochondrial function are now being used to "supercharge" immune cells for cancer therapy (CAR-T cells).
+
+## Cancer: A Twisted Metabolism
+
+
+
+For decades, the prevailing view of cancer metabolism was the **Warburg effect**—the observation that cancer cells favor glycolysis even in the presence of oxygen. The modern view is far more nuanced. While cancer cells are highly glycolytic, most also have active, and indeed essential, mitochondria.
+
+
+
+Some cancers are driven by specific mitochondrial mutations. Mutations in isocitrate dehydrogenase (**IDH1/2**) cause the enzyme to produce a "rogue" molecule called **2-hydroxyglutarate (2-HG)**. This **oncometabolite** accumulates to toxic levels and poisons the cell's epigenetic machinery, locking it in a proliferative state. This discovery led to a major victory in 2024: the success of the drug **Vorasidenib** (INDIGO trial), which targets this specific mitochondrial defect to halt the growth of brain tumors.
+
+
+
+Far from being defective, cancer mitochondria are often rewired and co-opted to support malignant growth, making them a prime target for modern cancer therapies.
 
 ## Stem Cells: The Quiescent Powerhouse
 Pluripotent stem cells exist in a state of metabolic quiescence. Their mitochondria are relatively immature and sparse, and they rely primarily on glycolysis. This is thought to protect their precious genome from the mutagenic ROS produced by oxidative phosphorylation. Upon receiving a differentiation signal, the cells undergo a dramatic metabolic shift: mitochondrial biogenesis is activated, and the cells switch to oxidative phosphorylation to meet the energetic demands of building a specialized tissue. This metabolic switch is now understood to be not just a consequence of differentiation, but a key driver of the process itself. 
