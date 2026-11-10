@@ -8,21 +8,22 @@ Book about mitochondria written using AI (Grok, Gemini).
 
 This comprehensive book delves into the intricate world of mitochondria, exploring their structure, function, and significance in cellular biology and human health. Written collaboratively with AI assistance, it provides an in-depth look at these essential organelles from historical discovery to cutting-edge research.
 
-The book is structured into 13 chapters, covering the following topics:
+The book is structured into 13 chapters and comprehensive appendices, covering the following topics:
 
-- Chapter 1: An In-Depth Introduction to Mitochondria
-- Chapter 2: The Unveiling of the Powerhouse: A Historical Perspective
-- Chapter 3: Architecture of the Powerhouse: Form Meets Function
-- Chapter 4: The Logistics of Life: Mitochondrial Biogenesis, Transport, and Quality Control
-- Chapter 5: The Currency of Life: How Mitochondria Make ATP
-- Chapter 6: The Central Hub: Mitochondria Beyond ATP
-- Chapter 7: The Endosymbiotic Relic: Mitochondrial DNA and Genetics
-- Chapter 8: When the Powerhouse Fails: Mitochondrial Diseases
-- Chapter 9: The Ticking Clock: Mitochondria and Aging
-- Chapter 10: Form Follows Function: Mitochondria in Specialized Tissues
-- Chapter 11: The Ancient Pact: Mitochondrial Evolution
-- Chapter 12: The New Frontier: Research and Therapeutics
-- Chapter 13: Conclusion: The Inner Universe
+- **Chapter 1:** Beyond the Powerhouse: The Mitochondrial Paradigm Shift
+- **Chapter 2:** Unveiling the Inner Universe: A History of Mitochondrial Science
+- **Chapter 3:** The Ancient Pact: Endosymbiosis and Eukaryotic Evolution
+- **Chapter 4:** Architecture at the Nanoscale: Membranes, Cristae, and Supercomplexes
+- **Chapter 5:** The Currency of Life: Bioenergetics, Chemiosmosis, and Metabolic Flux
+- **Chapter 6:** The Signaling Hub: Calcium, Metabolites, Stress Responses, and Cell Fate
+- **Chapter 7:** The Second Genome: Mitochondrial DNA, Peptides, and Epigenetics
+- **Chapter 8:** The Dynamic Network: Biogenesis, Fission, Fusion, Mitophagy, and Intercellular Transfer
+- **Chapter 9:** Exercise, Metabolic Flexibility, and Specialized Tissues
+- **Chapter 10:** Brain Energy, Neurodegeneration, and Metabolic Psychiatry
+- **Chapter 11:** Immunity, Inflammation, Infection, and Cancer
+- **Chapter 12:** When the Powerhouse Fails: Primary Mitochondrial Diseases and Diagnostics
+- **Chapter 13:** Rejuvenating the Inner Universe: Aging, Longevity, and Frontier Therapeutics
+- **Appendices:** Glossary, Bioenergetic Pathways, Leading Researchers & Landmark Studies, and Clinical Resources
 
 
 ## Prompts

@@ -6,14 +6,14 @@
     "dc:identifier":"mitochondria",
     "dc:source":"",
     "meta":"",
-    "dc:date":"2025-12-20",
+    "dc:date":"2026-11-10",
     "dc:publisher":"",
     "dc:contributor":"",
     "dc:rights":"",
-    "dc:description":"",
-    "dc:subject":""
+    "dc:description":"A comprehensive scientific and clinical guide to mitochondria: from endosymbiotic origins and nanoscale bioenergetics to metabolic psychiatry, exercise physiology, immunometabolism, and longevity medicine.",
+    "dc:subject":"Mitochondria, Bioenergetics, Cellular Biology, Metabolic Medicine, Longevity"
     },
-"cover_image":"cover.jpg",
+"cover_image":"images/cover.jpg",
 "default_css":[],
 "chapters":[
             {"markdown":"chapter1.md","css":""},
@@ -28,6 +28,7 @@
             {"markdown":"chapter10.md","css":""},
             {"markdown":"chapter11.md","css":""},
             {"markdown":"chapter12.md","css":""},
-            {"markdown":"chapter13.md","css":""}
+            {"markdown":"chapter13.md","css":""},
+            {"markdown":"appendices.md","css":""}
         ]
 }
