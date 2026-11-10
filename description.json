@@ -13,7 +13,7 @@
     "dc:description":"A comprehensive scientific and clinical guide to mitochondria: from endosymbiotic origins and nanoscale bioenergetics to metabolic psychiatry, exercise physiology, immunometabolism, and longevity medicine.",
     "dc:subject":"Mitochondria, Bioenergetics, Cellular Biology, Metabolic Medicine, Longevity"
     },
-"cover_image":"images/cover.jpg",
+"cover_image":"cover.jpg",
 "default_css":[],
 "chapters":[
             {"markdown":"chapter1.md","css":""},
