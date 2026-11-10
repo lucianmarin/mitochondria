@@ -1,6 +1,6 @@
 # Mitochondria
 
-![cover](cover.jpg)
+![cover](images/cover.jpg)
 
 Book about mitochondria written using AI (Grok, Gemini).
 
